@@ -1,2 +1,2 @@
-# basic-ds-and-algos
+# algorithms-exercises
 Created with CodeSandbox
