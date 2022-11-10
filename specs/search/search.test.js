@@ -18,7 +18,7 @@ function binarySearch(id, array) {
   let min = 0;
   let max = array.length - 1;
   let element;
-  while (min < max) {
+  while (min <= max) {
     let mid = Math.floor((min + max) / 2);
     element = array[mid];
     if (id > element.id) {
